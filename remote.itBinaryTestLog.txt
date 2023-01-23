@@ -1,0 +1,6 @@
+********************************************************
+remote.it platform and binary tester version 2.5.37 
+Current directory /home/cortex
+Mon Jan 23 14:29:58 PST 2023
+********************************************************
+Linux CNXHUB-FF7D72 4.9.11 #0 SMP PREEMPT Thu Jun 13 12:57:44 PST 2019 armv7l armv7l armv7l GNU/Linux
